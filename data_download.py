@@ -32,7 +32,7 @@ def save_frontpage(page, directory, filename):
     save_string_to_file(html_strani, directory, filename)
 
 save_frontpage(series_frontpage_url, series_directory, frontpage_filename)
-
+ 
 
 
 
