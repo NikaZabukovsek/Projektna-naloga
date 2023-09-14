@@ -1,5 +1,6 @@
 import requests
 import os
+import traceback
 
 series_frontpage_url = 'https://www.imdb.com/chart/tvmeter/'  
 series_directory = 'podatki'
