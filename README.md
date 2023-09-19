@@ -1,7 +1,7 @@
 # Analiza najbolj popularnih TV serij na IMDb
 Analizirala bom lestvico stotih najpopularnejših televizijskih serij na imdb.com. Lestvica je sestavljena na podlagi mesečne zgodovine iskanja več kot 250 milijonov uporabnikov na tej spletni strani.
 
-V svoji analizi se bom zajela naslednje podatke:
+V svoji analizi bom zajela naslednje podatke:
 - naslov serije
 - televizijski žanr
 - ustvarjalca
