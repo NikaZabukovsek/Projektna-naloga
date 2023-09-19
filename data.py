@@ -21,7 +21,7 @@ serije = page_to_series(vsebina)
 def get_dict_from_series_block(block):
     serija = {}
     vzorec_naslov = '"titleText":{"text":"(.+?)","__typename":"TitleText"}'
-    vzorec_začetek = '"releaseYear":{"year":(\d+)?,"endYear":\d+|null,"__typename":"YearRange"}'
+    vzorec_začetek = '"releaseYear":{"year":(\d+)?,.+,"__typename":"YearRange"}'
     vzorec_ocena = '"ratingsSummary":{"aggregateRating":(\d?\.?\d?|null),"voteCount":\d*,"__typename":"RatingsSummary"}'
     vzorec_dolžina = '"runtime":({"seconds":(\d*),"__typename":"Runtime"}|null)'
     vzorec_število = '"episodes":{"episodes":{"total":(\d*),"__typename":"EpisodeConnection"},"__typename":"Episodes"}'
