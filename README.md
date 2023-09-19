@@ -4,7 +4,7 @@ Analizirala bom lestvico stotih najpopularnejših televizijskih serij na imdb.co
 V svoji analizi bom zajela naslednje podatke:
 - naslov serije
 - televizijski žanr
-- ustvarjalca
+- avtorja serije
 - leto začetka predvajanja
 - število epizod
 - povprečno dolžino epizode
@@ -15,5 +15,5 @@ Analizirala bom:
 - popularnost glede na število epizod
 - popularnost glede na povprečno dolžino epizode
 - popularnost glede na splošno oceno
-- število serij glede na ustvarjalca
+- število serij glede na avtorja
 
