@@ -25,6 +25,7 @@ def get_dict_from_series_block(block):
     vzorec_ocena = '"ratingsSummary":{"aggregateRating":(\d?\.?\d?|null),"voteCount":\d*,"__typename":"RatingsSummary"}'
     vzorec_dolžina = '"runtime":({"seconds":(\d*),"__typename":"Runtime"}|null)'
     vzorec_število = '"episodes":{"episodes":{"total":(\d*),"__typename":"EpisodeConnection"},"__typename":"Episodes"}'
+    vzorec_položaj = '"meterRanking":{"currentRank":(\d+),.+,"__typename":"TitleMeterRanking"}'
 
     try:
       naslov = re.search(vzorec_naslov, block, flags=re.DOTALL).group(1)
@@ -32,6 +33,7 @@ def get_dict_from_series_block(block):
       splošna_ocena = re.search(vzorec_ocena, block, flags = re.DOTALL).group(1)
       povprečna_dolžina_epizode = re.search(vzorec_dolžina, block, flags = re.DOTALL).group(2)
       število_epizod = re.search(vzorec_število, block, flags = re.DOTALL).group(1)
+      položaj_na_lestvici = re.search(vzorec_položaj, block, flags = re.DOTALL).group(1)
       
     except AttributeError:
         print(f"Nepopolni vzorci pri (čudni?) seriji\n{block}")
@@ -42,6 +44,7 @@ def get_dict_from_series_block(block):
     serija["splošna ocena"] = splošna_ocena
     serija["povprečna dolžina epizode (v sekundah)"] = povprečna_dolžina_epizode
     serija["število epizod"] = število_epizod
+    serija["položaj na lestvici"] = položaj_na_lestvici
 
     def poberi_avtorje(niz):
         vzorec_avtor = re.compile(r'"text":"([^"]+)"', flags = re.DOTALL)
