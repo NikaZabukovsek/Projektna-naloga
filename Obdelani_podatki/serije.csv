@@ -1,203 +1,207 @@
-avtorji,naslov,povprečna dolžina epizode (v sekundah),splošna ocena,začetek predvajanja,število epizod,žanri
+avtorji,naslov,položaj na lestvici,povprečna dolžina epizode (v sekundah),splošna ocena,začetek predvajanja,število epizod,žanri
 
-"['Steven Maeda', 'Matt Owens']",One Piece,3600,8.5,,8,"['Action', 'Adventure', 'Comedy']"
+"['Steven Maeda', 'Matt Owens']",One Piece,1,3600,8.5,2023,8,"['Action', 'Adventure', 'Comedy']"
 
-['Dave Filoni'],Ahsoka,,8,,8,"['Action', 'Adventure', 'Drama']"
+['Dave Filoni'],Ahsoka,2,,8,2023,8,"['Action', 'Adventure', 'Drama']"
 
-['Rafe Judkins'],The Wheel of Time,3600,7.1,,21,"['Action', 'Adventure', 'Drama']"
+['Rafe Judkins'],The Wheel of Time,3,3600,7.1,2021,21,"['Action', 'Adventure', 'Drama']"
 
-['Eiichirô Oda'],One Piece: Wan pîsu,1440,8.9,,1083,"['Animation', 'Action', 'Adventure']"
+['Eiichirô Oda'],One Piece: Wan pîsu,4,1440,8.9,1999,1083,"['Animation', 'Action', 'Adventure']"
 
-['Taylor Sheridan'],Special Ops: Lioness,2520,7.7,,8,"['Action', 'Drama', 'Thriller']"
+['Taylor Sheridan'],Special Ops: Lioness,5,2520,7.7,2023,8,"['Action', 'Drama', 'Thriller']"
 
-['Aaron Korsh'],Nepremagljivi dvojec,2640,8.4,2011,134,"['Comedy', 'Drama']"
+['Aaron Korsh'],Nepremagljivi dvojec,6,2640,8.4,2011,134,"['Comedy', 'Drama']"
 
-['Jack Lothian'],Who Is Erin Carter?,20280,6.5,2023,7,"['Action', 'Adventure', 'Crime']"
+['Jack Lothian'],Who Is Erin Carter?,7,20280,6.5,2023,7,"['Action', 'Adventure', 'Crime']"
 
-"['John Hoffman', 'Steve Martin']",Only Murders in the Building,1800,8.1,,30,"['Comedy', 'Crime', 'Drama']"
+"['John Hoffman', 'Steve Martin']",Only Murders in the Building,8,1800,8.1,2021,30,"['Comedy', 'Crime', 'Drama']"
 
-['Christopher Storer'],The Bear,1800,8.6,,18,['Drama']
+['Christopher Storer'],The Bear,9,1800,8.6,2022,18,['Drama']
 
-['Ronan Bennett'],Top Boy,3600,8.4,2011,32,"['Crime', 'Drama', 'Thriller']"
+['Ronan Bennett'],Top Boy,10,3600,8.4,2011,32,"['Crime', 'Drama', 'Thriller']"
 
-"['David Benioff', 'D.B. Weiss']",Igra prestolov,3420,9.2,2011,73,"['Action', 'Adventure', 'Drama']"
+"['David Benioff', 'D.B. Weiss']",Igra prestolov,11,3420,9.2,2011,73,"['Action', 'Adventure', 'Drama']"
 
-"['John Linson', 'Taylor Sheridan']",Yellowstone,3600,8.7,,53,"['Drama', 'Western']"
+"['John Linson', 'Taylor Sheridan']",Yellowstone,12,3600,8.7,2018,53,"['Drama', 'Western']"
 
-"['Josh Friedman', 'David S. Goyer']",Foundation,3600,7.5,,20,"['Drama', 'Sci-Fi']"
+"['Josh Friedman', 'David S. Goyer']",Foundation,13,3600,7.5,2021,20,"['Drama', 'Sci-Fi']"
 
-"['Brad Falchuk', 'Ryan Murphy']",Ameriska grozljivka,3600,8,,129,"['Drama', 'Horror', 'Sci-Fi']"
+"['Brad Falchuk', 'Ryan Murphy']",Ameriska grozljivka,14,3600,8,2011,129,"['Drama', 'Horror', 'Sci-Fi']"
 
-['Vince Gilligan'],Kriva pota,2940,9.5,2008,62,"['Crime', 'Drama', 'Thriller']"
+['Vince Gilligan'],Kriva pota,15,2940,9.5,2008,62,"['Crime', 'Drama', 'Thriller']"
 
-"['Micah Fitzerman-Blue', 'Noah Harpster']",Painkiller,17160,7.5,2023,6,"['Crime', 'Drama']"
+"['Micah Fitzerman-Blue', 'Noah Harpster']",Painkiller,16,17160,7.5,2023,6,"['Crime', 'Drama']"
 
-"['Evan Goldberg', 'Eric Kripke', 'Craig Rosenberg']",Gen V,,null,,8,"['Action', 'Adventure', 'Comedy']"
+"['Evan Goldberg', 'Eric Kripke', 'Craig Rosenberg']",Gen V,17,,null,2023,8,"['Action', 'Adventure', 'Comedy']"
 
-['Sue Tenney'],Virgin River,2640,7.4,,55,"['Drama', 'Romance']"
+['Sue Tenney'],Virgin River,18,2640,7.4,2019,55,"['Drama', 'Romance']"
 
-['Frank Darabont'],Zivi mrtveci,2640,8.1,2010,177,"['Drama', 'Horror', 'Thriller']"
+['Frank Darabont'],Zivi mrtveci,19,2640,8.1,2010,177,"['Drama', 'Horror', 'Thriller']"
 
-['Charlie Brooker'],Black Mirror,3600,8.7,,27,"['Drama', 'Mystery', 'Sci-Fi']"
+['Charlie Brooker'],Black Mirror,20,3600,8.7,2011,27,"['Drama', 'Mystery', 'Sci-Fi']"
 
-[],Shingeki no Kyojin,1440,9,2013,98,"['Animation', 'Action', 'Adventure']"
+[],Shingeki no Kyojin,21,1440,9,2013,98,"['Animation', 'Action', 'Adventure']"
 
-"['Brian Koppelman', 'David Levien', 'Andrew Ross Sorkin']",Billions,3600,8.3,2016,84,['Drama']
+"['Brian Koppelman', 'David Levien', 'Andrew Ross Sorkin']",Billions,22,3600,8.3,2016,84,['Drama']
 
-['Eric Kripke'],The Boys,3600,8.7,,32,"['Action', 'Comedy', 'Crime']"
+['Eric Kripke'],The Boys,23,3600,8.7,2019,32,"['Action', 'Comedy', 'Crime']"
 
-['Shonda Rhimes'],Talenti v belem,2460,7.6,,421,"['Drama', 'Romance']"
+['Shonda Rhimes'],Talenti v belem,24,2460,7.6,2005,421,"['Drama', 'Romance']"
 
-"['Charlotte Coben', 'Harlan Coben']",Harlan Coben's Shelter,,6.6,,8,"['Crime', 'Drama', 'Mystery']"
+"['Charlotte Coben', 'Harlan Coben']",Harlan Coben's Shelter,25,,6.6,2023,8,"['Crime', 'Drama', 'Mystery']"
 
-['Jesse Armstrong'],Succession,3600,8.9,2018,39,"['Comedy', 'Drama']"
+['Jesse Armstrong'],Succession,26,3600,8.9,2018,39,"['Comedy', 'Drama']"
 
-"['Simon Kinberg', 'David Weil']",Invasion,3600,6.1,,20,"['Drama', 'Fantasy', 'Sci-Fi']"
+"['Simon Kinberg', 'David Weil']",Invasion,27,3600,6.1,2021,20,"['Drama', 'Fantasy', 'Sci-Fi']"
 
-[],The Lost Flowers of Alice Hart,3600,7.9,2023,7,['Drama']
+[],The Lost Flowers of Alice Hart,28,3600,7.9,2023,7,['Drama']
 
-['Jemaine Clement'],What We Do in the Shadows,1800,8.6,,51,"['Comedy', 'Fantasy', 'Horror']"
+['Jemaine Clement'],What We Do in the Shadows,29,1800,8.6,2019,51,"['Comedy', 'Fantasy', 'Horror']"
 
-['Graham Roland'],Dark Winds,2940,7.7,,12,"['Crime', 'Drama', 'Mystery']"
+['Graham Roland'],Dark Winds,30,2940,7.7,2022,12,"['Crime', 'Drama', 'Mystery']"
 
-"['Emilie Lebech Kaae', 'Adam Price']",Ragnarok,2700,7.4,2020,18,"['Action', 'Drama', 'Fantasy']"
+"['Emilie Lebech Kaae', 'Adam Price']",Ragnarok,31,2700,7.4,2020,18,"['Action', 'Drama', 'Fantasy']"
 
-['Lauren Schmidt Hissrich'],The Witcher,3600,8,,25,"['Action', 'Adventure', 'Drama']"
+['Lauren Schmidt Hissrich'],The Witcher,32,3600,8,2019,25,"['Action', 'Adventure', 'Drama']"
 
-['David Chase'],Sopranovi,3300,9.2,1999,86,"['Crime', 'Drama']"
+['David Chase'],Sopranovi,33,3300,9.2,1999,86,"['Crime', 'Drama']"
 
-"['Dave Andron', 'Michael Dinner']",Justified: City Primeval,2880,7.5,2023,8,"['Crime', 'Drama']"
+"['Dave Andron', 'Michael Dinner']",Justified: City Primeval,34,2880,7.5,2023,8,"['Crime', 'Drama']"
 
-['Steven Knight'],Birminghamske tolpe,3600,8.8,2013,36,"['Crime', 'Drama']"
+['Steven Knight'],Birminghamske tolpe,35,3600,8.8,2013,36,"['Crime', 'Drama']"
 
-"['Brendan Hunt', 'Joe Kelly', 'Bill Lawrence', 'Jason Sudeikis']",Ted Lasso,1800,8.8,2020,34,"['Comedy', 'Drama', 'Sport']"
+"['Brendan Hunt', 'Joe Kelly', 'Bill Lawrence', 'Jason Sudeikis']",Ted Lasso,36,1800,8.8,2020,34,"['Comedy', 'Drama', 'Sport']"
 
-"['Max Borenstein', 'Jim Hecht']",Winning Time: The Rise of the Lakers Dynasty,3540,8.3,,17,"['Biography', 'Drama', 'Sport']"
+"['Max Borenstein', 'Jim Hecht']",Winning Time: The Rise of the Lakers Dynasty,37,3540,8.3,2022,17,"['Biography', 'Drama', 'Sport']"
 
-['Graham Yost'],Serifova pravica,2640,8.6,2010,78,"['Action', 'Crime', 'Drama']"
+['Graham Yost'],Serifova pravica,38,2640,8.6,2010,78,"['Action', 'Crime', 'Drama']"
 
-[],Stranger Things,3060,8.7,2016,42,"['Drama', 'Fantasy', 'Horror']"
+[],Stranger Things,39,3060,8.7,2016,42,"['Drama', 'Fantasy', 'Horror']"
 
-"['Akiva Goldsman', 'Alex Kurtzman', 'Jenny Lumet']",Star Trek: Strange New Worlds,3120,8.3,,30,"['Action', 'Adventure', 'Sci-Fi']"
+"['Akiva Goldsman', 'Alex Kurtzman', 'Jenny Lumet']",Star Trek: Strange New Worlds,40,3120,8.3,2022,30,"['Action', 'Adventure', 'Sci-Fi']"
 
-['Eric Kripke'],Nadnaravno,2640,8.4,2005,327,"['Drama', 'Fantasy', 'Horror']"
+['Eric Kripke'],Nadnaravno,41,2640,8.4,2005,327,"['Drama', 'Fantasy', 'Horror']"
 
-['Alexi Hawley'],The Rookie,2580,8,,99,"['Action', 'Crime', 'Drama']"
+['Alexi Hawley'],The Rookie,42,2580,8,2018,99,"['Action', 'Crime', 'Drama']"
 
-['Ronald D. Moore'],Outlander,3600,8.4,,92,"['Drama', 'Fantasy', 'Romance']"
+['Ronald D. Moore'],Outlander,43,3600,8.4,2014,92,"['Drama', 'Fantasy', 'Romance']"
 
-"['Greg Daniels', 'Ricky Gervais', 'Stephen Merchant']",Pisarna,1320,9,2005,188,['Comedy']
+"['Greg Daniels', 'Ricky Gervais', 'Stephen Merchant']",Pisarna,44,1320,9,2005,188,['Comedy']
 
-"['Vince Gilligan', 'Peter Gould']",Better Call Saul,2760,9,2015,63,"['Crime', 'Drama']"
+"['Vince Gilligan', 'Peter Gould']",Better Call Saul,45,2760,9,2015,63,"['Crime', 'Drama']"
 
-"['Matt Groening', 'Josh Weinstein']",Disenchantment,1800,7.2,2018,50,"['Animation', 'Action', 'Adventure']"
+"['Matt Groening', 'Josh Weinstein']",Disenchantment,46,1800,7.2,2018,50,"['Animation', 'Action', 'Adventure']"
 
-"['Paul Abbott', 'John Wells']",Brez sramu,2760,8.5,2011,134,"['Comedy', 'Drama']"
+"['Paul Abbott', 'John Wells']",Brez sramu,47,2760,8.5,2011,134,"['Comedy', 'Drama']"
 
-"['Ted Humphrey', 'David E. Kelley']",The Lincoln Lawyer,3600,7.7,,21,"['Crime', 'Drama', 'Mystery']"
+"['Ted Humphrey', 'David E. Kelley']",The Lincoln Lawyer,48,3600,7.7,2022,21,"['Crime', 'Drama', 'Mystery']"
 
-['Darren Star'],Seks v mestu,1800,7.3,1998,94,"['Comedy', 'Drama', 'Romance']"
+['Darren Star'],Seks v mestu,49,1800,7.3,1998,94,"['Comedy', 'Drama', 'Romance']"
 
-['Graham Yost'],Silo,2940,8.1,,20,"['Drama', 'Mystery', 'Sci-Fi']"
+['Graham Yost'],Silo,50,2940,8.1,2023,20,"['Drama', 'Mystery', 'Sci-Fi']"
 
-[],Liebes Kind,17160,7.5,2023,6,"['Crime', 'Drama', 'Mystery']"
+[],Liebes Kind,51,17160,7.5,2023,6,"['Crime', 'Drama', 'Mystery']"
 
-['Dick Wolf'],Zakon in red: Enota za posebne primere,3600,8.1,,538,"['Crime', 'Drama', 'Mystery']"
+['Dick Wolf'],Zakon in red: Enota za posebne primere,52,3600,8.1,1999,538,"['Crime', 'Drama', 'Mystery']"
 
-"['Steven Molaro', 'Chuck Lorre']",Mladi Sheldon,1800,7.6,,128,['Comedy']
+"['Steven Molaro', 'Chuck Lorre']",Mladi Sheldon,53,1800,7.6,2017,128,['Comedy']
 
-['Neil Gaiman'],Good Omens,3300,8,2019,12,"['Comedy', 'Fantasy']"
+['Neil Gaiman'],Good Omens,54,3300,8,2019,12,"['Comedy', 'Fantasy']"
 
-[],The Changeling,,6.6,,8,"['Drama', 'Fantasy', 'Horror']"
+[],The Changeling,55,,6.6,2023,8,"['Drama', 'Fantasy', 'Horror']"
 
-['Sydney Newman'],Doctor Who,2700,8.6,,211,"['Adventure', 'Drama', 'Sci-Fi']"
+['Sydney Newman'],Doctor Who,56,2700,8.6,2005,211,"['Adventure', 'Drama', 'Sci-Fi']"
 
-"['David Crane', 'Marta Kauffman']",Prijatelji,1320,8.9,1994,234,"['Comedy', 'Romance']"
+"['David Crane', 'Marta Kauffman']",Prijatelji,57,1320,8.9,1994,234,"['Comedy', 'Romance']"
 
-['Jeff Davis'],Zlocinski um,2520,8.1,,335,"['Crime', 'Drama', 'Mystery']"
+['Jeff Davis'],Zlocinski um,58,2520,8.1,2005,335,"['Crime', 'Drama', 'Mystery']"
 
-['Laurie Nunn'],Sex Education,2700,8.3,2019,32,"['Comedy', 'Drama']"
+['Laurie Nunn'],Sex Education,59,2700,8.3,2019,32,"['Comedy', 'Drama']"
 
-['Chris Lang'],Unforgotten,2700,8.4,,31,"['Crime', 'Drama', 'Mystery']"
+['Chris Lang'],Unforgotten,60,2700,8.4,2015,31,"['Crime', 'Drama', 'Mystery']"
 
-['Jon Favreau'],The Mandalorian,2400,8.7,,24,"['Action', 'Adventure', 'Fantasy']"
+['Jon Favreau'],The Mandalorian,61,2400,8.7,2019,24,"['Action', 'Adventure', 'Fantasy']"
 
-[],Jujutsu Kaisen,1440,8.5,,35,"['Animation', 'Action', 'Adventure']"
+[],Jujutsu Kaisen,62,1440,8.5,2020,35,"['Animation', 'Action', 'Adventure']"
 
-"['Chuck Lorre', 'Bill Prady']",Veliki pokovci,1320,8.2,2007,280,"['Comedy', 'Romance']"
+"['Chuck Lorre', 'Bill Prady']",Veliki pokovci,63,1320,8.2,2007,280,"['Comedy', 'Romance']"
 
-['Christopher Miller'],The Afterparty,2100,7.3,,18,"['Comedy', 'Crime', 'Mystery']"
+['Christopher Miller'],The Afterparty,64,2100,7.3,2022,18,"['Comedy', 'Crime', 'Mystery']"
 
-"['David X. Cohen', 'Matt Groening']",Futurama,1320,8.5,1999,160,"['Animation', 'Adventure', 'Comedy']"
+"['David X. Cohen', 'Matt Groening']",Futurama,65,1320,8.5,1999,160,"['Animation', 'Adventure', 'Comedy']"
 
-"['Jay Carson', 'Kerry Ehrin']",The Morning Show,3600,8.2,,31,['Drama']
+"['Jay Carson', 'Kerry Ehrin']",The Morning Show,66,3600,8.2,2019,31,['Drama']
 
-['Jenny Han'],The Summer I Turned Pretty,2700,7.4,,16,"['Drama', 'Romance']"
+['Jenny Han'],The Summer I Turned Pretty,67,2700,7.4,2022,16,"['Drama', 'Romance']"
 
-['Nic Pizzolatto'],Pravi detektiv,3300,8.9,,25,"['Crime', 'Drama', 'Mystery']"
+['Nic Pizzolatto'],Pravi detektiv,68,3300,8.9,2014,25,"['Crime', 'Drama', 'Mystery']"
 
-['Jon Bokenkamp'],Črni seznam,2580,8,2013,218,"['Crime', 'Drama', 'Mystery']"
+['Jon Bokenkamp'],Črni seznam,69,2580,8,2013,218,"['Crime', 'Drama', 'Mystery']"
 
-['Pendleton Ward'],Adventure Time: Fionna \u0026 Cake,1800,9,,10,"['Animation', 'Action', 'Adventure']"
+['Pendleton Ward'],Adventure Time: Fionna \u0026 Cake,70,1800,9,2023,10,"['Animation', 'Action', 'Adventure']"
 
-"['Jim Field Smith', 'George Kay']",Hijack,2820,7.4,,7,"['Drama', 'Thriller']"
+"['Jim Field Smith', 'George Kay']",Hijack,71,2820,7.4,2023,7,"['Drama', 'Thriller']"
 
-"['Mark Brazill', 'Bonnie Turner', 'Terry Turner']","Oh, ta sedemdeseta",1320,8.1,1998,200,"['Comedy', 'Drama', 'Romance']"
+"['Mark Brazill', 'Bonnie Turner', 'Terry Turner']","Oh, ta sedemdeseta",72,1320,8.1,1998,200,"['Comedy', 'Drama', 'Romance']"
 
-"['Rob McElhenney', 'Glenn Howerton']",It's Always Sunny in Philadelphia,1320,8.8,,172,['Comedy']
+"['Rob McElhenney', 'Glenn Howerton']",It's Always Sunny in Philadelphia,73,1320,8.8,2005,172,['Comedy']
 
-"['Simon Kinberg', 'Carrie Beck', 'Dave Filoni']",Star Wars Rebels,1320,8,2014,77,"['Animation', 'Action', 'Adventure']"
+"['Simon Kinberg', 'Carrie Beck', 'Dave Filoni']",Star Wars Rebels,74,1320,8,2014,77,"['Animation', 'Action', 'Adventure']"
 
-"['Donald P. Bellisario', 'Don McGill']",Preiskovalci na delu: NCIS,3600,7.8,,458,"['Action', 'Crime', 'Drama']"
+"['Donald P. Bellisario', 'Don McGill']",Preiskovalci na delu: NCIS,75,3600,7.8,2003,458,"['Action', 'Crime', 'Drama']"
 
-['Michael Waldron'],Loki,3180,8.2,,12,"['Action', 'Adventure', 'Fantasy']"
+['Michael Waldron'],Loki,76,3180,8.2,2021,12,"['Action', 'Adventure', 'Fantasy']"
 
-"['Neil Druckmann', 'Craig Mazin']",The Last of Us,3000,8.8,,10,"['Action', 'Adventure', 'Drama']"
+"['Neil Druckmann', 'Craig Mazin']",The Last of Us,77,3000,8.8,2023,10,"['Action', 'Adventure', 'Drama']"
 
-['David Zabel'],The Walking Dead: Daryl Dixon,,8.2,,12,['Horror']
+['David Zabel'],The Walking Dead: Daryl Dixon,78,,8.2,2023,12,['Horror']
 
-"['Steven Levitan', 'Christopher Lloyd']",Sodobna družina,1320,8.5,2009,250,"['Comedy', 'Drama', 'Romance']"
+"['Steven Levitan', 'Christopher Lloyd']",Sodobna družina,79,1320,8.5,2009,250,"['Comedy', 'Drama', 'Romance']"
 
-"['Ryan J. Condal', 'George R.R. Martin']",House of the Dragon,,8.5,,20,"['Action', 'Adventure', 'Drama']"
+"['Ryan J. Condal', 'George R.R. Martin']",House of the Dragon,80,,8.5,2022,20,"['Action', 'Adventure', 'Drama']"
 
-['David Simon'],Skrivna naveza,3540,9.3,2002,60,"['Crime', 'Drama', 'Thriller']"
+['David Simon'],Skrivna naveza,81,3540,9.3,2002,60,"['Crime', 'Drama', 'Thriller']"
 
-['John Griffin'],From,3120,7.7,,30,"['Drama', 'Horror', 'Mystery']"
+['John Griffin'],From,82,3120,7.7,2022,30,"['Drama', 'Horror', 'Mystery']"
 
-"['David Jaffe', 'Rhett Reese', 'Michael Jonathan Smith', 'Paul Wernick']",Twisted Metal,1800,7.4,,10,"['Action', 'Adventure', 'Comedy']"
+"['David Jaffe', 'Rhett Reese', 'Michael Jonathan Smith', 'Paul Wernick']",Twisted Metal,83,1800,7.4,2023,10,"['Action', 'Adventure', 'Comedy']"
 
-['Hart Hanson'],Kosti,2400,7.8,2005,245,"['Crime', 'Drama', 'Mystery']"
+['Hart Hanson'],Kosti,84,2400,7.8,2005,245,"['Crime', 'Drama', 'Mystery']"
 
-['Taylor Sheridan'],1883,3600,8.7,2021,10,"['Drama', 'Western']"
+['Taylor Sheridan'],1883,85,3600,8.7,2021,10,"['Drama', 'Western']"
 
-['Amy Sherman-Palladino'],Midve z mamo,2640,8.2,2000,154,"['Comedy', 'Drama']"
+['Amy Sherman-Palladino'],Midve z mamo,86,2640,8.2,2000,154,"['Comedy', 'Drama']"
 
-['Mike White'],The White Lotus,3600,7.9,2021,14,"['Comedy', 'Drama']"
+['Mike White'],The White Lotus,87,3600,7.9,2021,14,"['Comedy', 'Drama']"
 
-"['Sterlin Harjo', 'Taika Waititi']",Reservation Dogs,1800,8.2,2021,28,"['Comedy', 'Crime']"
+"['Sterlin Harjo', 'Taika Waititi']",Reservation Dogs,88,1800,8.2,2021,28,"['Comedy', 'Crime']"
 
-"['Julie Plec', 'Kevin Williamson']",Vampirski dnevniki,2580,7.7,2009,171,"['Drama', 'Fantasy', 'Horror']"
+"['Julie Plec', 'Kevin Williamson']",Vampirski dnevniki,89,2580,7.7,2009,171,"['Drama', 'Fantasy', 'Horror']"
 
-['Robert Munic'],Power Book IV: Force,3600,8.1,,20,"['Crime', 'Drama']"
+['Robert Munic'],Power Book IV: Force,90,3600,8.1,2022,20,"['Crime', 'Drama']"
 
-"['Carlton Cuse', 'Graham Roland']",Jack Ryan,3600,8,2018,30,"['Action', 'Drama', 'Thriller']"
+"['Carlton Cuse', 'Graham Roland']",Jack Ryan,91,3600,8,2018,30,"['Action', 'Drama', 'Thriller']"
 
-['Caroline Graham'],Umori na podezelju,5400,7.9,,136,"['Crime', 'Drama', 'Mystery']"
+['Caroline Graham'],Umori na podezelju,92,5400,7.9,1997,136,"['Crime', 'Drama', 'Mystery']"
 
-['Joe Murtagh'],The Woman in the Wall,,6.8,2023,6,['Thriller']
+['Joe Murtagh'],The Woman in the Wall,93,,6.8,2023,6,['Thriller']
 
-['Danny McBride'],The Righteous Gemstones,2160,8.1,,28,"['Comedy', 'Drama']"
+['Danny McBride'],The Righteous Gemstones,94,2160,8.1,2019,28,"['Comedy', 'Drama']"
 
-['Noah Hawley'],Fargo,3180,8.9,2014,51,"['Crime', 'Drama', 'Thriller']"
+['Noah Hawley'],Fargo,95,3180,8.9,2014,51,"['Crime', 'Drama', 'Thriller']"
 
-"['J.J. Abrams', 'Jeffrey Lieber', 'Damon Lindelof']",Skrivnostni otok,2640,8.3,2004,121,"['Adventure', 'Drama', 'Fantasy']"
+"['J.J. Abrams', 'Jeffrey Lieber', 'Damon Lindelof']",Skrivnostni otok,96,2640,8.3,2004,121,"['Adventure', 'Drama', 'Fantasy']"
 
-['David Shore'],Zdravnikova vest,2640,8.7,2004,176,"['Drama', 'Mystery']"
+['David Shore'],Zdravnikova vest,97,2640,8.7,2004,176,"['Drama', 'Mystery']"
 
-"['Michael Patrick King', 'Darren Star']",And Just Like That...,2400,5.7,,22,"['Comedy', 'Drama', 'Romance']"
+"['Michael Patrick King', 'Darren Star']",And Just Like That...,98,2400,5.7,2021,22,"['Comedy', 'Drama', 'Romance']"
 
-"['Larry David', 'Jerry Seinfeld']",Seinfeld,1320,8.9,1989,173,['Comedy']
+"['Larry David', 'Jerry Seinfeld']",Seinfeld,99,1320,8.9,1989,173,['Comedy']
 
-['Dan Erickson'],Severance,3300,8.7,,19,"['Drama', 'Mystery', 'Sci-Fi']"
+['Dan Erickson'],Severance,100,3300,8.7,2022,19,"['Drama', 'Mystery', 'Sci-Fi']"
+
+
+
+
 
 
